@@ -29,7 +29,7 @@ displayAs = "RGBColor", //or "CMYKColor"
 printColors = ["HEX", "RGB", "CMYK", "LAB", "GrayScale"], // RGB, CMYK, LAB and/or GrayScale
 colorSeparator = " ", // Character used to separate the colours eg "|" output = R: XXX|G: XXX|B: XXX
 splitColorComponents = false;
-textSize = 10, // output text size value in points
+textSize = 14, // output text size value in points
 rectRef = null,
 textRectRef = null,
 textRef = null,
